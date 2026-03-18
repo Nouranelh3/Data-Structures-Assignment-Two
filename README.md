@@ -64,6 +64,7 @@ The program performs the following:
 
 
 Sample output (copy/paste of console output):
+
 // create a stack object
 
 Is the stack empty? true  //returns true because no elements have been pushed yet
